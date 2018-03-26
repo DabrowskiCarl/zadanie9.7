@@ -1,0 +1,7 @@
+.pad {
+    padding-bottom: 20px;
+
+}
+.container {
+    @extend .pad;
+}
